@@ -1,0 +1,8 @@
+---
+name: java-offline-buildpack
+templates: {}
+
+packages:
+- buildpack_java_offline
+
+properties: {}
