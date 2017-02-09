@@ -6,4 +6,6 @@ builds:
     version: '3.11'
   2036d8ff-0961-4cc2-b669-408602e8ca41:
     version: '3.12'
+  7b1b3273-2f0f-4f87-8905-f7339e3fe42b:
+    version: '3.13'
 format-version: '2'
