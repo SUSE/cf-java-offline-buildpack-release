@@ -1,16 +1,4 @@
 ---
-java-buildpack/java-buildpack-offline-v3.13.zip:
-  object_id: 632fd5c2-3986-49fc-b17e-c22e97171fba
-  sha: e96543f6192f4f4ffd7f6a6be4acccb0440a221c
-  size: 256387741
-java-buildpack/java-buildpack-offline-v3.14.zip:
-  object_id: 8d162814-d576-485a-a483-149582159440
-  sha: 4a6194237d4d541d0eabad1961ebc8569f396512
-  size: 261461620
-java-buildpack/java-buildpack-offline-v3.15.zip:
-  object_id: f00c8c72-6c30-4499-9406-9f74000d7f4e
-  sha: b14943521d1f8d1a7026f2516c1017fa6d2809f4
-  size: 277180400
 java-buildpack/java-buildpack-offline-v3.16.zip:
   object_id: e49043d2-f9d9-41b0-b83f-550a8d313cc3
   sha: 0592fe11b2c49aa4dafabc2d0493540174f42c0f
